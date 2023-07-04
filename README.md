@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto FullStack 
+Projeto FullStack!
